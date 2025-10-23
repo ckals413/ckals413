@@ -26,6 +26,12 @@
     
     
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{ckals413}?pet-id=1" width="1000" height="120"/>
+<div align="center">
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ckals413&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/ckals413"
+  width="600"
+  height="300"
+/>
 </a>
+</div>
